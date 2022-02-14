@@ -1,4 +1,4 @@
-### Hi there 👋, Mazin AlRahbi
+###  Mazin AlRahbi
 #### Computer Engineer Fresh Graduate
 
 
