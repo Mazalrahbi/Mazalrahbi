@@ -1,12 +1,13 @@
-###  Mazin AlRahbi
 #### Computer Engineer 
 
-
+# Mazin AlRahbi
 I'm Mazin, Recently Fresh Computer Engineering Graduate from California State University, Northridge. For starters, i am well versed on VHDL, Verilog and System Verilog Languages. I enjoy learning new coding languages and Currently i have been learning, gaining insight and knowledge on python and SQL as i feel like they are one of the prominent languages right now and have many applications in the real world.  
 
-Linkedin: https://www.linkedin.com/in/mazin-alrahbi-5b03a7157/
 
-Skills: VHDL | Verilog | SystemVerilog | SQL | Python | Java
+
+## Skills and Experiences
+* 💻 VHDL | Verilog | SystemVerilog | MATLAB 
+* ⌨️ SQL | Python | Java
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning SQL and Python 
