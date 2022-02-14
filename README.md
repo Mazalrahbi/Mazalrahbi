@@ -1,6 +1,6 @@
 ### Hi there 👋, Mazin AlRahbi
 #### Computer Engineer Fresh Graduate
-![Computer Engineer Fresh Graduate](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Computer Engineer Fresh Graduate]
 
 I'm Mazin, and i am a fresh Computer Engineering Graduate from California State University, Northridge. For starter i am well versed on VHDL, Verilog and System Verilog Languages. I enjoy learning new coding languages and Currently i have been learning, gaining insight and knowledge on python and SQL as i feel like they are one of the prominent languages right now and have many applicationn in the real world.  
 
