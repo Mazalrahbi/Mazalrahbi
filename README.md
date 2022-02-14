@@ -17,6 +17,8 @@ I'm Mazin, Recently Fresh Computer Engineering Graduate from California State Un
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mazalrahbi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mazin-alrahbi-5b03a7157/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mazint0o0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mazalrahbi)  
 
+## Github Stats
+
 ![Mazalrahbi's github stats](https://github-readme-stats.vercel.app/api?username=mazalrahbi)
 <!--
 **Mazalrahbi/Mazalrahbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
