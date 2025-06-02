@@ -21,8 +21,6 @@ Hi there! I’m Mazin AlRahbi, a **Computer Engineering graduate** from **Califo
 - **Data Governance Lead (Gulf CDC):** Spearheading data policy initiatives, data quality frameworks, and compliance monitoring for public health analytics.  
 - **Data Analyst & Engineer (Bank Muscat):** Designed and optimized ETL processes, developed dashboards, and implemented robust data validation protocols.  
 - **Digital System Design Projects:** Created and simulated **VHDL/Verilog modules**; enhanced system performance through co-design methodologies.  
-- **Awards:** Recognized with the **'Kafo' Award** for excellence and the **Top-Performing Candidate** in FinTech Professional Certificate program.  
-
 ---
 
 ## 🌱 Current Learning
