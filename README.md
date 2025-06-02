@@ -1,36 +1,47 @@
-## Computer Engineer 
+# 👨‍💻 Mazin AlRahbi | Data Enthusiast
 
-# Mazin AlRahbi
-I'm Mazin, Recently Fresh Computer Engineering Graduate from California State University, Northridge. For starters, i am well versed on VHDL, Verilog and System Verilog Languages. I enjoy learning new coding languages and Currently i have been learning, gaining insight and knowledge on python and SQL as i feel like they are one of the prominent languages right now and have many applications in different feilds.  
-
+Hi there! I’m Mazin AlRahbi, a **Computer Engineering graduate** from **California State University, Northridge**, with a passion for **data governance**, **digital design**, and **analytics**. With hands-on experience in **data management**, **Python**, and **SQL**, I’m committed to bridging the gap between **hardware design** and **data-driven solutions**.
 
 
-## Skills and Experiences
-* 💻 VHDL | Verilog | SystemVerilog | MATLAB 
-* ⌨️ SQL | Python | Java
+---
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning SQL and Python 
-- 📫 How to reach me: Mazrahbi@gmail.com 
+## 🔧 Technical Skills
+- **Programming & Scripting:**  
+  `R`,`Python`, `SQL`, `PL/SQL`, `Java`, `MATLAB`, `VHDL`, `Verilog`, `SystemVerilog`
+- **Data Engineering & Analytics:**  
+  `Power BI`, `DAX`, `SSMS`, `SSIS`, `Excel`, `ETL Pipelines`, `Data Warehousing`
+- **Technologies & Tools:**  
+  `SharePoint`, `Active Directory`, `Flask`, `Streamlit`, `Cloud Platforms`
+- **Interests:**  
+  Data governance, digital transformation, data visualization, and system design.
 
-## Socials
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mazalrahbi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mazin-alrahbi-5b03a7157/)
+## 🌟 Professional Highlights
+- **Data Governance Lead (Gulf CDC):** Spearheading data policy initiatives, data quality frameworks, and compliance monitoring for public health analytics.  
+- **Data Analyst & Engineer (Bank Muscat):** Designed and optimized ETL processes, developed dashboards, and implemented robust data validation protocols.  
+- **Digital System Design Projects:** Created and simulated **VHDL/Verilog modules**; enhanced system performance through co-design methodologies.  
+- **Awards:** Recognized with the **'Kafo' Award** for excellence and the **Top-Performing Candidate** in FinTech Professional Certificate program.  
 
-## Github Stats
+---
 
-![Mazalrahbi's github stats](https://github-readme-stats.vercel.app/api?username=mazalrahbi)
-<!--
-**Mazalrahbi/Mazalrahbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Current Learning
+- Advancing in **AI-driven analytics** and **cloud-based data engineering**.
+- Exploring **predictive modeling**, **data privacy frameworks**, and **modern visualization tools**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 📧 Email: [Mazrahbi@gmail.com](mailto:Mazrahbi@gmail.com)
+- 🌐 GitHub: [Mazalrahbi](https://github.com/Mazalrahbi)
+- 🔗 LinkedIn: [Mazin AlRahbi](https://www.linkedin.com/in/mazin-alrahbi-5b03a7157/)
+
+---
+
+## 📊 GitHub Stats
+![Mazalrahbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazalrahbi&show_icons=true&theme=default)
+
+---
+
+## ⚡ Fun Fact
+I thrive at the intersection of **technology and impact**. From **Data** to **AI**, I believe every challenge is an opportunity to create meaningful solutions.
